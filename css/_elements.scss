@@ -1,0 +1,27 @@
+body {
+    font-family: 'Kabel Book BT';
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+footer {
+    padding-top: 0 !important;
+}
+
+textarea.materialize-textarea{
+    height: 6rem !important;
+}
+
+input:focus,textarea:focus {
+    border-color: $color_secondary !important;
+    box-shadow: 0 1px 0 0 $color_secondary !important;
+
+    &+label{
+        @extend .color-secondary;
+    }
+}

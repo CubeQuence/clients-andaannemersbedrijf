@@ -1,0 +1,62 @@
+<!-- $pagetitle = Contact || A.N.D. Aannemersbedrijf -->
+<!-- $ma_contact = active -->
+
+<!-- @import /includes/header -->
+
+<!-- @import /includes/navbar-->
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <h2 class="header">Contact</h2>
+            <p>A.N.D. Aannemersbedrijf B.V.</p>
+
+            <p>
+                RandomStraat 1
+                <br />
+                1111AA Soest
+            </p>
+
+            <p>
+                Tel: <a href="tel:+31626289069">06 262 89 069</a>
+                <br />
+                Email: <a href="mailto:info@and-aannemersbedrijf.nl">info@and-aannemersbedrijf.nl</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <h2 class="header">Contact formulier</h2>
+            <div class="col s12">
+                <div class="row">
+                    <div class="input-field col s12 m6">
+                        <input id="name" type="text" required>
+                        <label for="name">Naam</label>
+                    </div>
+                    <div class="input-field col s12 m6">
+                        <input id="email" type="email" required>
+                        <label for="email">Email</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="input-field col s12">
+                        <textarea id="message" class="materialize-textarea" required></textarea>
+                        <label for="message">Bericht</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <button id="submit" class="btn waves-effect waves-light color-secondary--background" type="submit" name="action">Verstuur
+                        <i class="material-icons right">send</i>
+                    </button>
+                </div>
+                <script src="https://cdn.lucacastelnuovo.nl/js/ajax.js"></script>
+                <script src="/js/mail.js"></script>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- @import /includes/footer -->

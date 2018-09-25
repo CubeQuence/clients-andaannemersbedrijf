@@ -1,0 +1,13 @@
+.indicator-item {
+    height: 1rem !important;
+    width: 1rem !important;
+
+    &.active {
+        @extend .color-secondary--background;
+    }
+}
+
+.carousel .carousel-item>img {
+    height: 100%;
+    width: 100%;
+}
