@@ -13,12 +13,11 @@ document.addEventListener('DOMContentLoaded', function() {
         indicators: true
     });
 
-    setTimeout(carouselAutoTurn, 6000);
-
     function carouselAutoTurn() {
         var instance = M.Carousel.getInstance(elems[0]);
         instance.next();
-        setTimeout(carouselAutoTurn, 6000);
     }
+
+    setInterval(carouselAutoTurn, 6000);
 
 });

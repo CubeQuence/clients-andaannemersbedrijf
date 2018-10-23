@@ -10,7 +10,7 @@ submit.addEventListener("click", function() {
         dataType: "JSON",
         cache: false,
         data: {
-            api_key: 'e221a4d1c69d66d9aad012ac1ae11af6',
+            api_key: 'c53c383fba66651eb54d5ad426db35dc',
             to: 'ltcastelnuovo@gmail.com',
             from_name: 'A.N.D. Aannemersbedrijf Contactformulier',
             subject: 'Contactformulier || ' + name.value,

@@ -7,7 +7,7 @@
 		"uuidString": "81D48B53-AC3A-480E-9023-DBC48CC50431"
 		}
 	],
-"creatorBuild": "28795",
+"creatorBuild": "28901",
 "files": {
 	"/bouwwerk.kit": {
 		"cB": 0,
@@ -127,6 +127,17 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"/images/bouwwerk/foto1.png": {
+		"ft": 32768,
+		"iS": 75397,
+		"oA": 0,
+		"oAP": "/build/images/bouwwerk/foto1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
 	"/images/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -184,6 +195,116 @@
 		"oA": 0,
 		"oAP": "/build/images/logo2.png",
 		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/schilderen/foto1.png": {
+		"ft": 32768,
+		"iS": 35232,
+		"oA": 0,
+		"oAP": "/build/images/schilderen/foto1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/schilderen/foto2.png": {
+		"ft": 32768,
+		"iS": 36674,
+		"oA": 0,
+		"oAP": "/build/images/schilderen/foto2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/schilderen/foto3.png": {
+		"ft": 32768,
+		"iS": 40792,
+		"oA": 0,
+		"oAP": "/build/images/schilderen/foto3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/tegelwerk/foto1.png": {
+		"ft": 32768,
+		"iS": 35232,
+		"oA": 0,
+		"oAP": "/build/images/tegelwerk/foto1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/tegelwerk/foto2.png": {
+		"ft": 32768,
+		"iS": 36674,
+		"oA": 0,
+		"oAP": "/build/images/tegelwerk/foto2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/tegelwerk/foto3.png": {
+		"ft": 32768,
+		"iS": 40792,
+		"oA": 0,
+		"oAP": "/build/images/tegelwerk/foto3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/timmerwerk/foto1.png": {
+		"ft": 32768,
+		"iS": 35232,
+		"oA": 0,
+		"oAP": "/build/images/timmerwerk/foto1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/timmerwerk/foto2.png": {
+		"ft": 32768,
+		"iS": 36674,
+		"oA": 0,
+		"oAP": "/build/images/timmerwerk/foto2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/timmerwerk/foto3.png": {
+		"ft": 32768,
+		"iS": 40792,
+		"oA": 0,
+		"oAP": "/build/images/timmerwerk/foto3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 90
+		},
+	"/images/tuinieren/foto1.png": {
+		"ft": 32768,
+		"iS": 198946,
+		"oA": 0,
+		"oAP": "/build/images/tuinieren/foto1.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -294,7 +415,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-drunkArcher",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 559597356.22834802
+	"lastBuiltDate": 561977139.89172602
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
